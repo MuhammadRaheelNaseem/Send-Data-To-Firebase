@@ -1,6 +1,3 @@
-Absolutely, let's delve into each section with more technical detail and explanation:
-
----
 
 # Firebase: Real-Time Data Streaming (RTDS) Template
 
